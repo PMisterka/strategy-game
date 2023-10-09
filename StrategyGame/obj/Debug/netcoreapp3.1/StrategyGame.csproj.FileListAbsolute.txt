@@ -1,0 +1,13 @@
+C:\Users\patee\source\repos\StrategyGame\bin\Debug\netcoreapp3.1\StrategyGame.exe
+C:\Users\patee\source\repos\StrategyGame\bin\Debug\netcoreapp3.1\StrategyGame.deps.json
+C:\Users\patee\source\repos\StrategyGame\bin\Debug\netcoreapp3.1\StrategyGame.runtimeconfig.json
+C:\Users\patee\source\repos\StrategyGame\bin\Debug\netcoreapp3.1\StrategyGame.runtimeconfig.dev.json
+C:\Users\patee\source\repos\StrategyGame\bin\Debug\netcoreapp3.1\StrategyGame.dll
+C:\Users\patee\source\repos\StrategyGame\bin\Debug\netcoreapp3.1\StrategyGame.pdb
+C:\Users\patee\source\repos\StrategyGame\obj\Debug\netcoreapp3.1\StrategyGame.csprojAssemblyReference.cache
+C:\Users\patee\source\repos\StrategyGame\obj\Debug\netcoreapp3.1\StrategyGame.AssemblyInfoInputs.cache
+C:\Users\patee\source\repos\StrategyGame\obj\Debug\netcoreapp3.1\StrategyGame.AssemblyInfo.cs
+C:\Users\patee\source\repos\StrategyGame\obj\Debug\netcoreapp3.1\StrategyGame.csproj.CoreCompileInputs.cache
+C:\Users\patee\source\repos\StrategyGame\obj\Debug\netcoreapp3.1\StrategyGame.dll
+C:\Users\patee\source\repos\StrategyGame\obj\Debug\netcoreapp3.1\StrategyGame.pdb
+C:\Users\patee\source\repos\StrategyGame\obj\Debug\netcoreapp3.1\StrategyGame.genruntimeconfig.cache

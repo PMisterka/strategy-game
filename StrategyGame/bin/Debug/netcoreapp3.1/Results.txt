@@ -1,0 +1,6 @@
+You lost!
+After all the battles, you have: 
+0 warriors
+0 archers
+335$
+Altogether, you fought against 149 enemies
